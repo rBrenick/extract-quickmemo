@@ -1,7 +1,7 @@
 # extract-quickmemo
-Extract LG quickmemo app data to .txt files
+Extract LG quickmemo note data to .txt files
 
-I found myself wanting to transfer my notes from quickmemo to another app.
+I found myself wanting to transfer my notes from LG QuickMemo+ to another app.
 
 Unfortunately I couldn't find a way of extracting that data cleanly from the app, so I wrote this.
 
