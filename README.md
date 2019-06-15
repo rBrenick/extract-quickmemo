@@ -8,7 +8,7 @@ Unfortunately I couldn't find a way of extracting that data cleanly from the app
 
 # Install
 
-requires: Python (probably works with 2.7, but I haven't tested it)
+**requires:** Python (probably works with 2.7, but I haven't tested it)
 
 
 **if git:** *git clone https://github.com/rBrenick/extract-quickmemo*
@@ -19,7 +19,7 @@ requires: Python (probably works with 2.7, but I haven't tested it)
 
 # How To Use
 
-1. Open the app and export the notes.
+1. Open the app and export the notes. (your app will probably be in english, but the buttons should be in a similar location)
 
 ![export note 1](docs/quickmemo_export.png)
 ![export note 2](docs/quickmemo_export_as.png)
@@ -35,4 +35,7 @@ requires: Python (probably works with 2.7, but I haven't tested it)
 
 5. Run this commmand: python extract_files.py
 
-.txt files with the content should be output into *extract_quickmemo\quickmemo_output*
+# Result
+.txt files with the note contents should be output into *extract_quickmemo\quickmemo_output*
+
+
