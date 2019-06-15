@@ -19,7 +19,9 @@ Unfortunately I couldn't find a way of extracting that data cleanly from the app
 
 # How To Use
 
-1. Open the app and export the notes. (your app will probably be in english, but the buttons should be in a similar location)
+1. Open the app and export the notes.
+
+(Your app will probably be in english, but the buttons should be in a similar location)
 
 ![export note 1](docs/quickmemo_export.png)
 ![export note 2](docs/quickmemo_export_as.png)
