@@ -36,6 +36,8 @@ Unfortunately I couldn't find a way of extracting that data cleanly from the app
 ![opening command line in folder](docs/quickmemo_start_command_line_in_folder.png)
 
 5. Run this command: **python extract_files.py**
+![opening command line in folder](docs/quickmemo_command_line_run.png)
+
 
 # Result
 .txt files with the note contents should be output into *extract_quickmemo\quickmemo_output*
