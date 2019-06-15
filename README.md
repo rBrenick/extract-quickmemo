@@ -11,10 +11,10 @@ Unfortunately I couldn't find a way of extracting that data cleanly from the app
 requires: Python (probably works with 2.7, but I haven't tested it)
 
 
-if git: *git clone https://github.com/rBrenick/extract-quickmemo*
+**if git:** *git clone https://github.com/rBrenick/extract-quickmemo*
 
 
-if manual: download zip and put in some folder
+**if manual:** download package zip and put it in some folder on disk.
 
 
 # How To Use
@@ -24,12 +24,14 @@ if manual: download zip and put in some folder
 ![export note 1](docs/quickmemo_export.png)
 ![export note 2](docs/quickmemo_export_as.png)
 
-
 2. Get them to a computer somehow.
 
 3. Put them in the 'quickmemo_lqm_files' folder.
 
 4. Open Command Line in the folder
+
+(you can quickly do so by typing *cmd* into the address bar of the folder)
+![opening command line in folder](docs/quickmemo_start_command_line_in_folder.png)
 
 5. Run this commmand: python extract_files.py
 
