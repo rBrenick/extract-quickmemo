@@ -33,9 +33,11 @@ Unfortunately I couldn't find a way of extracting that data cleanly from the app
 4. Open Command Line in the folder
 
 (you can quickly do so by typing **cmd** into the address bar of the folder)
+
 ![opening command line in folder](docs/quickmemo_start_command_line_in_folder.png)
 
 5. Run this command: **python extract_files.py**
+
 ![opening command line in folder](docs/quickmemo_command_line_run.png)
 
 
