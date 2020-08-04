@@ -8,7 +8,7 @@ Unfortunately I couldn't find a way of extracting that data cleanly from the app
 
 # Install
 
-**requires:** Python. I recommend at least version 3.6 (probably works with 2.7, but I haven't tested it)
+**requires:** Python. Minimum version: 3.6
 
 
 **if git:** *git clone https://github.com/rBrenick/extract-quickmemo*
